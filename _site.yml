@@ -1,0 +1,14 @@
+name: "bethanyleap"
+navbar:
+  title: "My Personal Website"
+  left: 
+    - text: "Home"
+      href: index.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<bleap713@gmail.com>
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/bethanyleap
+output:
+  html_document:
+    theme: darkly
