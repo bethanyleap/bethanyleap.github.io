@@ -1,14 +1,25 @@
 name: "bethanyleap"
+title: "Bethany Leap"
+#description: |
+#  Bethany Leap
+image: "headshot.jpeg"
+base_url: bethanyleap.github.io
+output_dir: "docs"
+theme: theme.css
 navbar:
-  title: "My Personal Website"
-  left: 
+  right:
     - text: "Home"
       href: index.html
-  right:
-    - icon: fa-envelope fa-lg
-      href: mailto:<bleap713@gmail.com>
-    - icon: fa-twitter fa-lg
+    - text: "About"
+      href: about.html
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+    - icon: fab fa-github
+      href: https://github.com/bethanyleap
+    - icon: fab fa-twitter
       href: https://twitter.com/bethanyleap
-output:
-  html_document:
-    theme: darkly
+    - icon: fab fa-linkedin
+      href: https://linkedin.com/in/bethanyleap
+output: distill::distill_article

@@ -1,0 +1,30 @@
+---
+title: "Bethany Leap"
+image: "headshot.jpeg"
+# description: 
+links: 
+  - label: Twitter
+    url: https://twitter.com/bethanyleap
+  - label: Github
+    url: https://github.com/bethanyleap
+  - label: LinkedIn
+    url: https://linkedin.com/in/bethanyleap
+  - label: Email
+    url: mailto:[bleap713@gmail.com]
+site: distill::distill_website
+output: 
+  postcards::trestles
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+Welcome! I am a second-year Ph.D. student in the School of Public Affairs at American University.  
