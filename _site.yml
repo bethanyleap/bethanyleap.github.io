@@ -9,6 +9,7 @@ theme: theme.css
 navbar:
   right:
     - icon: fa-home
+    - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
