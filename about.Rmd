@@ -1,0 +1,11 @@
+---
+title: "About this site"
+description: |
+  Some additional details about the website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I received my B.A. in Global Studies from Gardner-Webb University in 2019. When not researching, I enjoy trying out new recipes, watching soccer, and exploring DC with my partner and dog. 

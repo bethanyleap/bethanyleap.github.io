@@ -1,0 +1,35 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\nI received my B.A. in Global Studies from Gardner-Webb University in 2019. When not researching, I enjoy trying out new recipes, watching soccer, and exploring DC with my partner and dog.\n\n\n\n",
+      "last_modified": "2021-03-27T17:48:02-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Bethany Leap",
+      "author": [],
+      "contents": "\n\n          \n      \n      Bethany Leap\n      \n      \n      Home\n      About\n      Research\n      Teaching\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ☰\n      \n      \n      \n        \n          \n            \n              \n            \n              Bethany Leap\n            \n            \n              \n                \n                    \n                      \n                        Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Github\n                      \n                    \n                  \n                                    \n                    \n                      \n                        LinkedIn\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            Welcome! I am a second-year Ph.D. student in the School of Public Affairs at American University.\n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Bethany Leap\n            \n            \n              \n                \n                                    \n                    \n                      Twitter\n                    \n                  \n                                    \n                    \n                      Github\n                    \n                  \n                                    \n                    \n                      LinkedIn\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                  \n              \n            \n            \n              Welcome! I am a second-year Ph.D. student in the School of Public Affairs at American University.\n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-03-27T17:48:02-04:00"
+    },
+    {
+      "path": "research.html",
+      "title": "Research",
+      "author": [],
+      "contents": "\nThis is where I will list cool working papers and projects.\n\n\n\n",
+      "last_modified": "2021-03-27T17:48:02-04:00"
+    },
+    {
+      "path": "teaching.html",
+      "title": "Teaching",
+      "description": "Here is a list of my teaching experiences.",
+      "author": [],
+      "contents": "\nTeaching Assistant\n\n\n\n",
+      "last_modified": "2021-03-27T17:48:02-04:00"
+    }
+  ],
+  "collections": []
+}
