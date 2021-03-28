@@ -27,4 +27,5 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-Welcome! I am a second-year Ph.D. student in the School of Public Affairs at American University.  
+Welcome! I am a Ph.D. student in the Department of Justice, Law, and Criminology, housed in the School of Public Affairs at American University. I am also affiliated with the Polarization and Extremism Research and Innovation Lab (PERIL) at American as a graduate fellow. I study justice and political methodology, with focuses on radicalization and extremist behavior.  
+
