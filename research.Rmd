@@ -6,6 +6,13 @@ title: "Research"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Publications  
+## Publications  
 
-**Leap, B.** & [Young, JK](http://fs2.american.edu/jyoung/www/). Radicalization and deradicalization. In Asal, V., *Oxford Research Encyclopedia of International Studies*. Forthcoming.  
+**Leap, B.** & [Young, JK](http://fs2.american.edu/jyoung/www/). Radicalization and deradicalization. In Asal, V., *Oxford Research Encyclopedia of International Studies*. Forthcoming.   
+
+## Articles  
+Leap, B. "A Machine Learning Approach to Predicting Behavioral Radicalization among the Far Right." Working Manuscript. 
+
+Leap, B. "Using Computational Text Analysis to Analyze Trends in the Radicalization Literature." Working Manuscript.  
+
+## Research Assistant
