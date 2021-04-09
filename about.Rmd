@@ -9,7 +9,9 @@ knitr::opts_chunk$set(echo = FALSE)
 A current copy of my vita can be found [here](cv_mostrecent.pdf).  
 
 # Current Affiliations
-**Doctoral Student**, Department of Justice, Law, and Criminology  
+**Doctoral Student**, [Department of Justice, Law, and Criminology](https://www.american.edu/spa/jlc/)  
 School of Public Affairs, American University  
-**Graduate Fellow**, Polarization and Extremism Research and Innovation Lab (PERIL)  
-I received my B.A. in Global Studies from Gardner-Webb University in 2019. When not researching, I enjoy trying out new recipes, watching soccer, and exploring DC with my partner and dog. 
+**Graduate Fellow**, Polarization and Extremism Research and Innovation Lab [(PERIL)](https://www.american.edu/centers/university-excellence/peril.cfm)  
+
+# Education
+B.A. (2019), Global Studies, Gardner-Webb University, Boiling Springs, NC
