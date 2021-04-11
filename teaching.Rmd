@@ -9,3 +9,11 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # Teaching Assistant
+
+### Graduate-Level  
+
++ **JLC 681: Introduction to Justice Research II**, American University, Spring 2020/2021 (with Professor [Joseph Young](https://www.american.edu/spa/faculty/jyoung.cfm))
+
+### Undergraduate-Level  
+
++ **SPA 300: Experimenting with Violence (Honors Colloqium)**, American University, Fall 2020 (with Professor [Joseph Young](https://www.american.edu/spa/faculty/jyoung.cfm))
