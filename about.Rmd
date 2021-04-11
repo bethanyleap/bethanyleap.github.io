@@ -6,7 +6,7 @@ title: "About"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-A current copy of my vita can be found [here](cv_mostrecent.pdf).  
+A current copy of my vita can be found [here](docs/cv_mostrecent.pdf).  
 
 # Current Affiliations
 **Doctoral Student**, [Department of Justice, Law, and Criminology](https://www.american.edu/spa/jlc/)  
