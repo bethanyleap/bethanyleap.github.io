@@ -8,7 +8,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Publications  
 
-<u>Leap, B.</u> & [Young, JK](http://fs2.american.edu/jyoung/www/). Radicalization and deradicalization. In Asal, V., *Oxford Research Encyclopedia of International Studies*. Forthcoming.   
+<b>Leap, B.</b> & [Young, J](http://fs2.american.edu/jyoung/www/). (2021, May 26). [Radicalization and deradicalization](https://urldefense.com/v3/__https://oxfordre.com/internationalstudies/view/10.1093/acrefore/9780190846626.001.0001/acrefore-9780190846626-e-601__;!!IaT_gp1N!mm2VQflygQPIlEuJb-aN9vyz_mytFe3wQy-sYck9texJ2jDp3Rfp9Di68lr_3j776A$.). In *Oxford Research Encyclopedia of International Studies*. Oxford University Press. doi: https://doi.org/10.1093/acrefore/9780190846626.013.601.
+
 
 ## Articles  
 <u>Leap, B. </u> "A Machine Learning Approach to Predicting Behavioral Radicalization among the Far Right." Working Manuscript. 
