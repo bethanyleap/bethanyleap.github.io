@@ -9,6 +9,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # Teaching Assistant
 
 ### Graduate-Level  
++ **SPA 614: Conduct of Inquiry III**, American University, Fall 2021 (with Professor [Claudia Persico](https://www.american.edu/spa/faculty/cpersico.cfm))  
 + **Data Science and Text Analysis**, ICPSR Session II, Summer 2021 (with Professors [Kelsey Shoub](https://www.kelseyshoub.com/) and [Matthew Denny](http://www.mjdenny.com/)).  
 
 + **JLC 681: Introduction to Justice Research II**, American University, Spring 2020/2021 (with Professor [Joseph Young](https://www.american.edu/spa/faculty/jyoung.cfm)).
