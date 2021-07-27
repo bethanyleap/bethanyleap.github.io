@@ -10,7 +10,7 @@ links:
   - label: LinkedIn
     url: https://linkedin.com/in/bethanyleap
   - label: Email
-    url: mailto:[bleap713@gmail.com]
+    url: mailto:[bethanyjleap@gmail.com]
 site: distill::distill_website
 output: 
   postcards::trestles
