@@ -3,7 +3,7 @@ title: "Bethany Leap"
 #description: |
 #  Bethany Leap
 image: "headshot.jpeg"
-base_url: https://bethanyleap.github.io
+url: "http://bethanyleap.com"
 output_dir: "docs"
 theme: theme.css
 navbar:
