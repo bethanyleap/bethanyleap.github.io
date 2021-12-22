@@ -19,14 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 "Mapping the Far Right," with [Cynthia Miller-Idriss](https://www.cynthiamilleridriss.com/) and [Joseph K. Young](http://fs2.american.edu/jyoung/www/).
 
 ## Conferences 
-\begin{hangparas}{.25in}{1}
-"A Computational Approach to Combating the Pitfalls of Terrorism Data". \textit{Midwest Political Science Association Annual Meeting}, Chicago, IL. Upcoming.
+"A Computational Approach to Combating the Pitfalls of Terrorism Data". *Midwest Political Science Association Annual Meeting*, Chicago, IL. Upcoming.
 
-"Death \& Math; or Why We Like Terrorism... Research," with Joe Young. \textit{Admitted Doctoral Student Day}, School of Public Affairs, American University, Washington, DC. March 2021.
+"Death & Math; or Why We Like Terrorism... Research," with Joe Young. *Admitted Doctoral Student Day*, School of Public Affairs, American University, Washington, DC. March 2021.
 
-"Terrorizing Democracy? A Bayesian Analysis of Terrorism's Effects on Democratic Institutions." \textit{Tri-School Doctoral Research Conference}, Washington, DC. March 2021.  
+"Terrorizing Democracy? A Bayesian Analysis of Terrorism's Effects on Democratic Institutions." *Tri-School Doctoral Research Conference*, Washington, DC. March 2021.  
 
-"Ticking Time Bombs: The Effects of Indiscriminate Violence on Civil War Outcomes." \textit{Midwest Political Science Association Annual Meeting}, Chicago, IL. April 2019.  
+"Ticking Time Bombs: The Effects of Indiscriminate Violence on Civil War Outcomes." *Midwest Political Science Association Annual Meeting*, Chicago, IL. April 2019.  
 
-"Ticking Time Bombs: The Effects of Indiscriminate Violence on Civil War Outcomes." \textit{Life-of-the-Scholar Multidisciplinary Conference}, Boiling Springs, NC. March 2019.  
-\end{hangparas}
+"Ticking Time Bombs: The Effects of Indiscriminate Violence on Civil War Outcomes." *Life-of-the-Scholar Multidisciplinary Conference*, Boiling Springs, NC. March 2019.  
