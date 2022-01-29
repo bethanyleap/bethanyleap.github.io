@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <u>Leap, B.</u> "Using Computational Text Analysis to Analyze Trends in the Radicalization Literature." Working Manuscript.  
 
 ## Research Assistant
-"Mapping the Far Right," with [Cynthia Miller-Idriss](https://www.cynthiamilleridriss.com/) and [Joseph K. Young](http://fs2.american.edu/jyoung/www/).
+"Mapping the Far Right," with [Joseph K. Young](http://fs2.american.edu/jyoung/www/).
 
 ## Conferences 
 "A Computational Approach to Combating the Pitfalls of Terrorism Data". *Midwest Political Science Association Annual Meeting*, Chicago, IL. Upcoming.
